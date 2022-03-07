@@ -79,7 +79,7 @@ or 3 less than the total number of dimensions of the layer, allowing you to
 browse volumetric timeseries data and other high dimensional data. See for
 example these cells undergoing mitosis in this volumetric timeseries:
 
-![image: mitosis](./images/mitosis.gif)
+![image: mitosis](./images/mitosis.webm)
 
 ```{note}
 Switching to 3D mode for a very large data set could trigger computation that
